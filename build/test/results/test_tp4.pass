@@ -1,0 +1,46 @@
+---
+:source:
+  :path: test
+  :file: test_tp4.c
+:successes:
+- :test: test_readReg
+  :line: 20
+  :message: ''
+  :unity_test_time: 0
+- :test: test_writeReg
+  :line: 36
+  :message: ''
+  :unity_test_time: 0
+- :test: test_writeBitTrue
+  :line: 55
+  :message: ''
+  :unity_test_time: 0
+- :test: test_writeBitFalse
+  :line: 77
+  :message: ''
+  :unity_test_time: 0
+- :test: test_readBitZero
+  :line: 100
+  :message: ''
+  :unity_test_time: 0
+- :test: test_readBitOne
+  :line: 123
+  :message: ''
+  :unity_test_time: 0
+- :test: test_readModState
+  :line: 147
+  :message: ''
+  :unity_test_time: 0
+- :test: test_writeModState
+  :line: 176
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 8
+  :passed: 8
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.0024584729981143028
